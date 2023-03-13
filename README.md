@@ -2,158 +2,114 @@
 
 |     Program      |                               Title of Program                                       | 
 | :--------------: | :----------------------------------------------------------------------------------: |  
-|    Prog. 001     |                                                               |         
-|    Prog. 002     |                                                                   |         
-|    Prog. 003     |                                                                |         
-|    Prog. 004     |                                                            |          
-|    Prog. 005     |                                                                  |         
-|    Prog. 006     |                                                                   |         
-|    Prog. 007     |                                                      |         
-|    Prog. 008     |                                                 |       
-|    Prog. 009     |                                                                          |       
-|    Prog. 010     |                                                               |        
-|    Prog. 011     |                                                                       |         
-|    Prog. 012     |                                                           |         
-|    Prog. 013     |                                                                       |          
-|    Prog. 014     |                                                                 |         
-|    Prog. 015     |                                                                            |         
-|    Prog. 016     |                                          |          
-|    Prog. 017     |                                                                  |         
-|    Prog. 018     |                                                                |         
-|    Prog. 019     |                                                                         |         
-|    Prog. 020     |                                                                         |      
-|    Prog. 021     |                                                                   |       
-|    Prog. 022     |                                                                     |          
-|    Prog. 023     |                                                             |         
-|    Prog. 024     |                                                         |        
-|    Prog. 025     |                                                |        
-|    Prog. 026     |                                                           |        
-|    Prog. 027     |                                                                      |        
-|    Prog. 028     |                                                         |        
-|    Prog. 029     |                                                 |       
-|    Prog. 030     |                                                                             |          
-|    Prog. 031     |                                                                 |          
-|    Prog. 032     |                                                               |        
-|    Prog. 033     |                                                                   |        
-|    Prog. 034     |                                                          |         
-|    Prog. 035     |                                                                    |          
-|    Prog. 036     |                                                                |        
-|    Prog. 037     |                                                           |          
-|    Prog. 038     |                                                                       |         
-|    Prog. 039     |                                                                           |       
-|    Prog. 040     |                                                                 |          
-|    Prog. 041     |                                                                        |        
-|    Prog. 042     |                                                                        |         
-|    Prog. 043     |                                                              |         
-|    Prog. 044     |                                                                   |       
-|    Prog. 045     |                                                         |         
-|    Prog. 046     |                                                                        |         
-|    Prog. 047     |                                                                |         
-|    Prog. 048     |                                                                   |       
-|    Prog. 049     |                                                                   |       
-|    Prog. 050     |                                                                     |        
-|    Prog. 051     |                                                                    |        
-|    Prog. 052     |                                              |         
-|    Prog. 053     |                                                                     |        
-|    Prog. 054     |                                                |      
-|    Prog. 055     |                                                                |        
-|    Prog. 056     |                                                              |        
-|    Prog. 057     |                                                       |         
-|    Prog. 058     |                                                               |       
-|    Prog. 059     |                                                                      |
-|    Prog. 060     |                                                                   |        
-|    Prog. 061     |                                                    |        
-|    Prog. 062     |                                                                |         
-|    Prog. 063     |                                                                  |        
-|    Prog. 064     |                                                                  |      
-|    Prog. 065     |                                                                |        
-|    Prog. 066     |                                                                         |        
-|    Prog. 067     |                                                         |         
-|    Prog. 068     |                                                              |       
-|    Prog. 069     |                                                            |         
-|    Prog. 070     |                                                            |        
-|    Prog. 071     |                                                           |        
-|    Prog. 072     |                                                             |        
-|    Prog. 073     |                                                                   |        
-|    Prog. 074     |                                                           |      
-|    Prog. 075     |                                                         |        
-|    Prog. 076     |                                                                         |        
-|    Prog. 077     |                                                      |         
-|    Prog. 078     |                                                             |       
-|    Prog. 079     |                                                             |         
-|    Prog. 080     |                                                              |        
-|    Prog. 081     |                                                      |        
-|    Prog. 082     |                                                                      |         
-|    Prog. 083     |                                                                     |        
-|    Prog. 084     |                                                        |      
-|    Prog. 085     |                                                              |        
-|    Prog. 086     |                                                                      |        
-|    Prog. 087     |                                                         |         
-|    Prog. 088     |                                                            |       
-|    Prog. 089     |                                                                    |         
-|    Prog. 090     |                                                        |        
-|    Prog. 091     |                                                                       |        
-|    Prog. 092     |                                                                      |         
-|    Prog. 093     |                                                                    |        
-|    Prog. 094     |                                                               |      
-|    Prog. 095     |                                                                 |        
-|    Prog. 096     |                                                                         |        
-|    Prog. 097     |                                                                           |         
-|    Prog. 098     |                                                         |       
-|    Prog. 099     |                                                             |         
-|    Prog. 100     |                                                                  |        
-|    Prog. 101     |                                                       |        
-|    Prog. 102     |                                                     |         
-|    Prog. 103     |                                                  |        
-|    Prog. 104     |                                                                          |      
-|    Prog. 105     |                                         |        
-|    Prog. 106     |                                                                  |        
-|    Prog. 107     |                                        |         
-|    Prog. 108     |                                                                   |       
-|    Prog. 109     |                                                                     |         
-|    Prog. 110     |                                                                  |        
-|    Prog. 111     |                                                                 |        
-|    Prog. 112     |                                                      |         
-|    Prog. 113     |                                                        |        
-|    Prog. 114     |                                                                 |      
-|    Prog. 115     |                                                                   |        
-|    Prog. 116     |                                                                            |        
-|    Prog. 117     |                                                                |         
-|    Prog. 118     |                                                                        |       
-|    Prog. 119     |                                                              | 
-|    Prog. 120     |                                                          |        
-|    Prog. 121     |                                                                       |        
-|    Prog. 122     |                                                       |         
-|    Prog. 123     |                                                                                |        
-|    Prog. 124     |                                                          |      
-|    Prog. 125     |                                                                               |        
-|    Prog. 126     |                                                                       |        
-|    Prog. 127     |                                                                |        
-|    Prog. 128     |                                                              |       
-|    Prog. 129     |                                                                       | 
-|    Prog. 130     |                                                                       |        
-|    Prog. 131     |                                                                |        
-|    Prog. 132     |                                                              |         
-|    Prog. 133     |                                              |        
-|    Prog. 134     |                                                              |      
-|    Prog. 135     |                                                           |        
-|    Prog. 136     |                                                         |        
-|    Prog. 137     |                                                                    |         
-|    Prog. 138     |                                                                    |       
-|    Prog. 139     |                                                                      | 
-|    Prog. 140     |                                                                        |        
-|    Prog. 141     |                                                                      |        
-|    Prog. 142     |                                                                      |         
-|    Prog. 143     |                                                                        |        
-|    Prog. 144     |                                                                        |      
-|    Prog. 145     |                                                               |        
-|    Prog. 146     |                                                                  |        
-|    Prog. 147     |                                                      |         
-|    Prog. 148     |                                                          |       
-|    Prog. 149     |                                                                | 
-|    Prog. 150     |                                                                       |        
-|    Prog. 151     |                                                                         |        
-|    Prog. 152     |                                                                     |         
-|    Prog. 153     |                                                                         |        
-|    Prog. 154     |                                                               |      
-|    Prog. 155     |                                                                    |        
+|    Prog. 001     |                            1,12,123,123...n_Ladder                                   |         
+|    Prog. 002     |                            1,22,333,4444.....ladder                                  |         
+|    Prog. 003     |                               1,23,456.....Ladder                                    |         
+|    Prog. 004     |                           2,5,6,30,10,91....Pattern                                  |          
+|    Prog. 005     |                                 2Power2NPlus1                                        |         
+|    Prog. 006     |                           A,BB,CCC,DDDD.....Ladder                                   |         
+|    Prog. 007     |                              A,BC,DEF.....Ladder                                     |         
+|    Prog. 008     |                                AddTwoMatrices                                        |       
+|    Prog. 009     |                                 AnagramCheck                                         |       
+|    Prog. 010     |                              ApplesBananaTofuCat                                     |        
+|    Prog. 011     |                                 ArcLengthClass                                       |         
+|    Prog. 012     |                               ArcLengthFromAngle                                     |         
+|    Prog. 013     |                            AreaAndPerimeterOfCircle                                  |          
+|    Prog. 014     |                                  AreaOfCircle                                        |         
+|    Prog. 015     |                           AreaOfTriangleHeronsFormula                                |         
+|    Prog. 016     |                                 ArmstrongNumber                                      |          
+|    Prog. 017     |                                    BestOfTwo                                         |         
+|    Prog. 018     |                              BrontosourousProgram                                    |         
+|    Prog. 019     |                                CaeserEncryption                                      |         
+|    Prog. 020     |                                    Calculator                                        |      
+|    Prog. 021     |                                    Calendar                                          |       
+|    Prog. 022     |                                   CatProgram                                         |          
+|    Prog. 023     |                                 CharacterOrVowel                                     |         
+|    Prog. 024     |                               CharacterPictureGrid                                   |        
+|    Prog. 025     |                                 Circluar Pizza                                       |        
+|    Prog. 026     |                                 CoOrdinateCheck                                      |        
+|    Prog. 027     |                                 CollatzFunction                                      |        
+|    Prog. 028     |                               CollinearCheckClass                                    |        
+|    Prog. 029     |                                    CommaCode                                         |       
+|    Prog. 030     |                             CommonElementInTwoLists                                  |          
+|    Prog. 031     |                              ComplexNumberOperations                                 |          
+|    Prog. 032     |                               ComplexOverloading                                     |        
+|    Prog. 033     |                                 CountCharacter                                       |        
+|    Prog. 034     |                                 CountdownToZero                                      |         
+|    Prog. 035     |                            DigitAtOnesPlaceOfANumber                                 |          
+|    Prog. 036     |                              Distancebetweentwopoints                                |        
+|    Prog. 037     |                                 DivisibleBy3List                                     |          
+|    Prog. 038     |                                  EmployeeManager                                     |         
+|    Prog. 039     |                                    EvenOddLists                                      |       
+|    Prog. 040     |                                     Factorial                                        |          
+|    Prog. 041     |                                FaranheitToCelsuis                                    |        
+|    Prog. 042     |                                   FibonacciSeries                                    |         
+|    Prog. 043     |                                    Harshadnumber                                     |         
+|    Prog. 044     |                                     HelloWorld                                       |       
+|    Prog. 045     |                                  HelloWorldProblem                                   |         
+|    Prog. 046     |                                      Kangaroo                                        |         
+|    Prog. 047     |                                  KilometersToMiles                                   |         
+|    Prog. 048     |                               LYToIngEndingWordInString                              |       
+|    Prog. 049     |                                       LeapYear                                       |       
+|    Prog. 050     |                                LeftRightCentreAlignment                              |        
+|    Prog. 051     |                                      LibraryClass                                    |        
+|    Prog. 052     |                                    ListSlicingExample                                |         
+|    Prog. 053     |                                   LongestWordInAString                               |        
+|    Prog. 054     |                                     MAxMinDicitionary                                |      
+|    Prog. 055     |                                     MaximumOf3Numbers                                |        
+|    Prog. 056     |                                      MinValueInList                                  |        
+|    Prog. 057     |                                       MoveRectangle                                  |         
+|    Prog. 058     |                                 MultiplicationOfTwoNumbers                           |       
+|    Prog. 059     |                                    MultiplicationTable                               |
+|    Prog. 060     |                                       NumberCheck                                    |        
+|    Prog. 061     |                           NumberOfTImesWordAppearsInASentence                        |        
+|    Prog. 062     |                                  NumberOfVowelsInAString                             |         
+|    Prog. 063     |                                      PalindromeNumber                                |        
+|    Prog. 064     |                                    PasswordValidtyCheck                              |      
+|    Prog. 065     |                                    PersonEmployeeStudent                             |        
+|    Prog. 066     |                                         PointClass                                   |        
+|    Prog. 067     |                                    PointWithinCircleCheck                            |         
+|    Prog. 068     |                                     PointsAreCollinear                               |       
+|    Prog. 069     |                                       PolygonShapeGUI                                |         
+|    Prog. 070     |                                 PresenceOfSubstringInAString                         |        
+|    Prog. 071     |                                        PrimeNumber                                   |        
+|    Prog. 072     |                              Programtocomputeweightofcarbohy                         |        
+|    Prog. 073     |                                   Programtogenerateuserid                            |        
+|    Prog. 074     |                                     QuadrantCheckClass                               |      
+|    Prog. 075     |                                       QuadraticClass                                 |        
+|    Prog. 076     |                                      QuadraticEquation                               |        
+|    Prog. 077     |                                       QueueUsingList                                 |         
+|    Prog. 078     |                                        ReadingFiles                                  |       
+|    Prog. 079     |                                   RectangleOverloading                               |         
+|    Prog. 080     |                                        ReverseLsit                                   |        
+|    Prog. 081     |                                  ReverseWordsInAString                               |        
+|    Prog. 082     |                                 RootsOfQuadraticEquation                             |         
+|    Prog. 083     |                                      SimpleCalculator                                |        
+|    Prog. 084     |                                     SimpleComputation                                |      
+|    Prog. 085     |                                       Slopeofaline                                   |        
+|    Prog. 086     |                                      StacksUsingList                                 |        
+|    Prog. 087     |                                     StringCountTypes                                 |         
+|    Prog. 088     |                                     StringPalindrome                                 |       
+|    Prog. 089     |                                     StudentExamResult                                |         
+|    Prog. 090     |                                        SumInARange                                   |        
+|    Prog. 091     |                             SumOfEvenAndOddNumberInAPredefi                          |        
+|    Prog. 092     |                                  SumOfNumbersDivisibleBy3                            |         
+|    Prog. 093     |                          SumOfNumbersGreaterThanZeroInListOfNumbers                  |        
+|    Prog. 094     |                                      SumOfTwoNumbers                                 |      
+|    Prog. 095     |                                         SumUptoN                                     |        
+|    Prog. 096     |                                       Sumof5Numbers                                  |        
+|    Prog. 097     |                                         SwapCase                                     |         
+|    Prog. 098     |                                SwapFirstCharacterWithDollar                          |       
+|    Prog. 099     |                                         SwapValues                                   |         
+|    Prog. 100     |                                          Swapping                                    |        
+|    Prog. 101     |                                     TimeClassProgram                                 |        
+|    Prog. 102     |                                 TimesAValueAppearsInList                             |         
+|    Prog. 103     |                                   TopThreeItemsInShop                                |        
+|    Prog. 104     |                                       TopperScore                                    |      
+|    Prog. 105     |                                         Triangle                                     |        
+|    Prog. 106     |                                     TypeOfTriangle                                   |        
+|    Prog. 107     |                                     UniqueCharacter                                  |         
+|    Prog. 108     |                             Volume_and_surfacearea_of_sphere                         |       
+|    Prog. 109     |                                    VotingEligibilty                                  |         
+|    Prog. 110     |                                     VtuDictionary                                    |        
+|    Prog. 111     |                                      towerofhanoi                                    |        
